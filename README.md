@@ -1,5 +1,5 @@
 # Advanced-Scientific-Computing-2022
-[APMTH 207] Advanced Scientific Computing: Stochastic Methods for Data Analysis, Inference and Optimization @ Harvard (Fall 2020)
+[APMTH 207] Advanced Scientific Computing: Stochastic Methods for Data Analysis, Inference and Optimization @ Harvard (Fall 2022)
 
 ## 1. Inverse Transform 
   * Sampling from a Piecewise Linear CDF
