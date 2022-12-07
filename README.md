@@ -32,7 +32,7 @@
   * Gradient-based Methods
   * Stochastic Optimization Method
   
-## Bayesian Inference of Linear Models
+## 9. Bayesian Inference of Linear Models
   * Uniform Priors
   * Laplace Approximation for Posteriors
   * Sampling from the Actual Posterior Using MH Algorithm
